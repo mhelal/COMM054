@@ -1,1 +1,1 @@
-# COMM054
+# COMM054 - Foundations of Data Science
